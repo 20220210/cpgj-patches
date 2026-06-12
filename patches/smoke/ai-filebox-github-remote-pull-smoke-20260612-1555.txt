@@ -1,0 +1,5 @@
+CPGJ GitHub remote-pull smoke test
+version: v1.0.4
+generated_by: ChatGPT
+purpose: verify GitHub raw -> AI FileBox pull -> SJ
+timestamp_utc: 2026-06-12T07:55:00Z
