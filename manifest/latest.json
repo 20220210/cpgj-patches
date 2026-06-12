@@ -1,13 +1,12 @@
 {
   "schema": "cpgj-github-patch-feed/v1",
-  "updatedAt": "2026-06-12T08:45:00Z",
+  "updatedAt": "2026-06-12T08:58:00Z",
   "latest": {
     "name": "cpjl-project-hotfix-v1.0.6-remove-header-reset-button-source-20260612.zip",
     "version": "v1.0.6",
-    "sha256": "d329e104e14e61944d77a979e02a166a1bbe6bb6bf132e016db3c039835274d0",
-    "size": 6961,
-    "encoding": "base64",
-    "url": "https://raw.githubusercontent.com/20220210/cpgj-patches/main/patches/v1.0.6/cpjl-project-hotfix-v1.0.6-remove-header-reset-button-source-20260612.zip.b64",
-    "note": "Remove top-right reset button. Source-only patch; host upgrade runner rebuilds Docker images after applying patch."
+    "sha256": "f9af12666334b94e7d38f9cd8ff9d7cd29e8cb40de6883a13f456693885a3049",
+    "size": 6972,
+    "url": "https://raw.githubusercontent.com/20220210/cpgj-patches/main/patches/v1.0.6/cpjl-project-hotfix-v1.0.6-remove-header-reset-button-source-20260612.zip",
+    "note": "Remove top-right reset button. Raw zip, no base64 encoding."
   }
 }
