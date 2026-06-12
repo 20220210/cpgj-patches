@@ -1,0 +1,12 @@
+{
+  "schema": "cpgj-github-patch-feed/v1",
+  "updatedAt": "2026-06-12T08:35:00Z",
+  "latest": {
+    "name": "smoke-1605.zip",
+    "version": "smoke-20260612-1605",
+    "sha256": "4d49bff6d16ed03cabd05d4040b20b234d0f39677b1b87f9abc27d11618effdc",
+    "size": 266,
+    "url": "https://raw.githubusercontent.com/20220210/cpgj-patches/zip-smoke-20260612-1605/patches/smoke/smoke-1605.zip",
+    "note": "Smoke test for GitHub manifest -> server sync -> SJ. This is not a valid upgrade package; auto-upgrade may reject it after SJ pickup."
+  }
+}
