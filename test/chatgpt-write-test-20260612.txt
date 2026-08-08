@@ -1,3 +1,0 @@
-ChatGPT GitHub write test for cpgj-patches.
-Time: 2026-06-12
-Purpose: verify repository write permission before uploading CPJG/CPJL patch packages.
